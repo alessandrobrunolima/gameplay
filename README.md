@@ -68,6 +68,12 @@ CLIENT_ID=
 CDN_IMAGE=
 ```
 
+## 🎓 Quem ministrou?
+
+As aulas foram ministradas pela **[Rodrigo Gonçalves Santana](https://github.com/rodrigorgtic)** na **Next Level Week 06**.
+
+---
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
@@ -75,9 +81,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
-  <small>Desenvolvido por Rodrigo Gonçalves Santana - Junho/2021</small>
+  <small>Desenvolvido por Alessandro Bruno Lima - Junho/2021</small>
 
-[![Instagram Badge](https://img.shields.io/badge/-rodrigo.goncalves.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/)
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
+[![Instagram Badge](https://img.shields.io/badge/-alessandroblima-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/alessandroblima/)](https://www.instagram.com/alessandroblima/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandro%20Bruno%20Lima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-bruno-lima-158a2a54/)](https://www.linkedin.com/in/alessandro-bruno-lima-158a2a54/)
 
 </div>
